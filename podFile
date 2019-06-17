@@ -1,0 +1,12 @@
+project 'miaozaishangjiaduan.xcodeproj'
+
+
+target 'miaozaishangjiaduan' do
+pod 'AFNetworking'
+pod "SVProgressHUD-0.8.1"
+pod 'SDWebImage'
+pod "MJRefresh"
+pod 'MJExtension'
+pod 'IQKeyboardManager'
+
+end
